@@ -9,7 +9,7 @@ recruitment code.
 
 Stay grounded!
 
-* Watch/download the [TCC News](introduction.mp4).
+* Watch/download the [TCC News](https://github.com/jandurovec/the-catch-2025/raw/refs/heads/main/introduction/introduction.mp4).
 
 ## Hints
 

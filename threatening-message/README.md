@@ -9,8 +9,8 @@ investigated.
 
 Stay grounded!
 
-* [Download threatening message](threatening_message.zip)
-* [Download materials for analysis](image.zip)
+* [Download threatening message](https://github.com/jandurovec/the-catch-2025/raw/refs/heads/main/threatening-message/threatening_message.zip)
+* [Download materials for analysis](https://github.com/jandurovec/the-catch-2025/raw/refs/heads/main/threatening-message/image.zip)
 
 ## Hints
 

@@ -8,7 +8,7 @@ connected — check it out.
 
 Stay grounded!
 
-* Watch/download the [TCC News](void_foundry.mp4)
+* Watch/download the [TCC News](https://github.com/jandurovec/the-catch-2025/raw/refs/heads/main/void-foundry/void_foundry.mp4)
 
 ## Hints
 

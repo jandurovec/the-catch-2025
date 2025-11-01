@@ -9,7 +9,7 @@ Find our backups as quickly as possible.
 
 Stay grounded!
 
-* [Download (memory dump for analysis)](inaccessible_backup.zip)
+* [Download (memory dump for analysis)](https://github.com/jandurovec/the-catch-2025/raw/refs/heads/main/inaccessible-backup/inaccessible_backup.zip)
 
 ## Hints
 

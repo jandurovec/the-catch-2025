@@ -8,7 +8,7 @@ you can easily test your skills.
 
 Stay grounded!
 
-* [Download the supplement](sunday_expansion_pack.zip)
+* [Download the supplement](https://github.com/jandurovec/the-catch-2025/raw/refs/heads/main/sunday-expansion-pack/sunday_expansion_pack.zip)
 
 ## Hints
 
