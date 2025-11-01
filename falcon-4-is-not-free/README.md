@@ -39,8 +39,8 @@ the XWiki we've already seen in [Chapter 2][ch2]. The anchor also suggests
 the firmware (downloaded in the same chapter) and haiku points to licence
 guards.
 
-Using a disassembler (see [Chapter 3][ch3]) and/or AI analysis on the firmware
-binary, we can identify several functions:
+Using a disassembler (see [Chapter 3][ch3]) and/or AI analysis on the
+[firmware][fw] binary, we can identify several functions:
 
 - `licence1` (0x29f8) - Character conversion function
 - `licence2` (0x2ada) - Hex string to binary conversion
@@ -264,3 +264,4 @@ ASCII:
 [ch1]: ../falcon-1-operator
 [ch2]: ../falcon-2-the-vendor
 [ch3]: ../falcon-3-open-the-door
+[fw]: https://github.com/jandurovec/the-catch-2025/raw/refs/heads/main/falcon-2-the-vendor/roostguard-firmware-0.9.zip

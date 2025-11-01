@@ -72,7 +72,7 @@ i.e. the system uses one byte to represent the x-coordinate and another byte to
 represent the y-coordinate, we can try representing negative numbers in the
 most common way - the [two's complement].
 
-Alternatively, we can take more analytical approach. Since we have the firmware
+Alternatively, we can take more analytical approach. Since we have the [firmware][fw]
 that we retrieved in [Chapter 2][ch2] and decompiled in [Chapter 3][ch3], we
 can check what it does (again, AI assistants might be very valuable to explain
 assembly language).
@@ -131,4 +131,5 @@ flag.
 [ch1]: ../falcon-1-operator
 [ch2]: ../falcon-2-the-vendor
 [ch3]: ../falcon-3-open-the-door
+[fw]: https://github.com/jandurovec/the-catch-2025/raw/refs/heads/main/falcon-2-the-vendor/roostguard-firmware-0.9.zip
 [two's complement]: https://en.wikipedia.org/wiki/Two%27s_complement

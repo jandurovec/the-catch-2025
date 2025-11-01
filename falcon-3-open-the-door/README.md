@@ -45,7 +45,7 @@ as the `/login` endpoint (no special discovery needed, there's a button on the
 main page) which displays a challenge and requires some password.
 
 Since we have completed [Chapter 2][ch2], we should be also able to retrieve
-`roostguard-firmware-0.9.bin`.
+[`roostguard-firmware-0.9.bin`][fw].
 
 ```
 $ file roostguard-firmware-0.9.bin
@@ -129,3 +129,4 @@ feed on the `/operator` page and we can log in without issues.
 
 [ch1]: ../falcon-1-operator
 [ch2]: ../falcon-2-the-vendor
+[fw]: https://github.com/jandurovec/the-catch-2025/raw/refs/heads/main/falcon-2-the-vendor/roostguard-firmware-0.9.zip

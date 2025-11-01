@@ -64,8 +64,9 @@ extractable relatively easily.
 The only trick seems to be that some base64 sequences are interpreted and
 "translated" to HTML, so we'll need to replace `<em>` and `</em>` with `++`,
 e.g. by piping the server output through `sed 's|</\?em>|++|g'`. Then we should
-be able to reconstruct `roostguard-firmware-0.9.bin` locally by running
+be able to reconstruct `roostguard-firmware-0.9.bin` [locally][fw] by running
 `base64 -d` on the data we extracted from server response.
 
 [Chapter 1: Operator]: ../falcon-1-operator
 [exploit]: https://www.exploit-db.com/exploits/52136
+[fw]: https://github.com/jandurovec/the-catch-2025/raw/refs/heads/main/falcon-2-the-vendor/roostguard-firmware-0.9.zip
